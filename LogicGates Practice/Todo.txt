@@ -1,0 +1,3 @@
+#######################
+
+	*	getAnchor method that returns best anchor coordinates for line
